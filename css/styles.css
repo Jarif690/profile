@@ -1,0 +1,116 @@
+body{
+  text-align: center;
+  margin: 0;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+.top-section{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 150px;
+}
+.cloud1{
+  position: absolute;
+  right: 15%;
+  top: 50px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 15%;
+  top: 50%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 0;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.description{
+  line-height: 2;
+  width: 30%;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 20px;
+  font-weight: 500;
+}
+
+span{
+  text-decoration: underline;
+}
+
+.middle-section{
+  padding-top: 50px;
+}
+
+.my_image{
+  top: 50px;
+  height: 200px;
+  width: auto;
+}
+
+.hello{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+hr{
+  width: 5%;
+  border: 10px dotted;
+  color: #EAF6F6;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+.my_skills{
+  margin: 50px auto;
+}
+
+.skill1{
+  padding-top: 40px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  display: block;
+  line-height: 2;
+}
+
+h3{
+  margin-top: 0;
+}
+
+.skill2{
+  padding-top: 40px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  display: block;
+  line-height: 2;
+  padding-bottom: 30px;
+}
+
+.gif{
+  float: left;
+  width: 30%;
+  margin-right: 10%;
+}
+
+.skill2 img{
+  float: right;
+  width: 30%;
+  margin-left: 10%;
+}
+
+.skill2 p{
+  margin-bottom: 50px;
+}
